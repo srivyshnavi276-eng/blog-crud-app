@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 require 'config.php';
 
 // If not logged in, go to login
